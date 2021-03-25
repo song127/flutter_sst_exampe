@@ -6,6 +6,8 @@ void main() {
   runApp(MyApp());
 }
 
+// 유튜브 영상 참고하여 만든 예시 코드
+// 영상에서는 예외처리 및 재실행 기능이 존재하지않아 추가적인 코드를 집어넣음
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
