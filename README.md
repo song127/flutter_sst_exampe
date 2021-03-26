@@ -1,16 +1,2 @@
-# flutter_speech_to_text_test
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter speech to text 제대로 정리한 한글 문서가 없어서 만들어봄
+여러 번 실행하는 거랑 예외처리는 외국에도 없어서 직접 다시 함 ㅅㄱ
